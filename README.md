@@ -2,6 +2,9 @@
 
 ## Setup & Installation
 
+### Installed and running on my PythonAnywhere account, check it out by visiting:
+https://cirosr.pythonanywhere.com/
+
 Make sure you have the latest version of Python installed.
 
 ```bash
